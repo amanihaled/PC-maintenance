@@ -12,8 +12,8 @@ The board can sync with other devices, making it perfect for meetings and presen
 Overall, visiting UTMDigital and attending the talk helped me deepen my understanding by showing me how the concepts I’m learning are applied in the real world.
 It also sparked excitement in me to pursue a career in the IT field.
 
+[Assignment 2.pdf](https://github.com/user-attachments/files/18760115/Assignment.2.pdf)
+
 ![404723683-355311aa-fc81-478d-9114-278e83a3f62a](https://github.com/user-attachments/assets/e22d57bf-6f68-4ca6-9f9c-e555ee233519)
 ![404723818-504a0fbf-ef22-4bc5-8548-584c5f2fbd74](https://github.com/user-attachments/assets/baf70645-07cd-4533-a953-fb6bbd3744bf)
 ![404723661-270208ca-28e3-4eca-bc53-9c70c7d40b21](https://github.com/user-attachments/assets/2ba6e163-80a7-4aae-8464-3a7743520212)
-
-[Assignment 2.pdf](https://github.com/user-attachments/files/18760115/Assignment.2.pdf)
