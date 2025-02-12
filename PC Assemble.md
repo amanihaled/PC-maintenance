@@ -1,13 +1,13 @@
 On 20th October 2024, we had the opportunity to attend the PC maintenance workshop. 
 
-We started by learning about the basic tools and safety precautions required for handling computer hardware. 
+We started by learning about the basic tools and safety precautions for handling computer hardware. 
 We were then guided through the process of carefully disassembling a desktop PC, piece by piece. 
 This involved removing the outer casing, unscrewing and detaching components such as motherboard.
 
-One of the most fascinating aspects of the workshop was gaining a clearer understanding of how critical components like the CPU (Central Processing Unit) and microprocessor work. 
+One of the most fascinating aspects of the workshop was gaining a clearer understanding of how components like the CPU and microprocessor work. 
 The instructor explained how the CPU process the instructions and manage the data flow, while the microprocessor handles specific tasks and operations.
 
-After disassembling the PC, we were tasked with reassembling it, which was both challenging and rewarding. 
+After disassembling the PC, we were tasked to reassembling it, which was both challenging and rewarding. 
 This hands-on practice reinforced the importance of component alignment and ensuring that all connections are secure. 
 
 Overall, the workshop help me in enhancing my technical skills in computer hardware and its inner workings. 
