@@ -1,13 +1,15 @@
 On 23rd December 2024, we have listened to industry talk via Webex recording. 
 The talk has 2 speakers. 
 The first speaker was Encik Nik Mohd Habibullah, chief executive officer of Micro Semiconductor Sdn. Bhd.. 
-The second speaker was Encik Mohd Hakimi Iqmall, information technology officer of UTMDigital.
+The second speaker was Encik Mohd Hakimi Iqmall, information technology officer of UTMDigital. 
 
-The talk has opened my eyes about the importance of technical skills and soft skills in the IT industry. 
-A person who work in this field needs to master in problem solving and catching up with the latest trend of technology. 
-The person will also be involved in project management, thus making effective communication and empathy a vital skills one needs to adapt with.
+The talk has opened my eyes to the importance of mastering problem-solving and staying updated with the latest technological trends. 
+These skills not only enhance individual performance but also contribute to the overall growth of the industry.  
 
-As the talk was recorded, I do hope someday I obtain the opportunity to listen to these amazing speakers talk in person as I want to know more about the life of people in IT industry.
+Additionally, Being able to collaborate with diverse teams and understand different perspectives is crucial for delivering successful projects. 
+This has motivated me to work on improving my interpersonal skills alongside my technical expertise.  
+
+Overall, the talk has inspired me to adopt a balanced approach for my career development. 
 
 [Assignment 3 Industry Talk.pdf](https://github.com/user-attachments/files/18760135/Assignment.3.Industry.Talk.pdf)
 
