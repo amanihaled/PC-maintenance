@@ -3,8 +3,9 @@ We have to build something that can ease the daily life of the disadvantage grou
 
 My group, Group 4 has decided to focus on solving the problem that senior citizens often face which is buying groceries. 
 We came up with the idea to build a mobile application called GROCER4U. 
-GROCER4U is a grocery delivery service that has features like tracking expiration dates of food items and suggesting healthy recipes based on the purchase, the app simplifies daily life, making it easier for elderly individuals to enjoy fresh meals without the worry of running out of essentials or forgetting about expired items. 
-By providing these services, GROCER4U able to help the elderly to stay independent, healthy, and connected, all while eliminating the stress of traditional grocery shopping.
+GROCER4U is a grocery delivery service that has features like tracking expiration dates of food items and suggesting healthy recipes based on the purchase.
+The app simplifies daily life of elderly individuals to enjoy fresh meals without the worry of running out of essentials or forgetting about expired items. 
+The purpose of this help is to help the elderly to stay independent, healthy, and connected, all while eliminating the stress of traditional grocery shopping.
 
 After few discussions and presenting our ideas, we received several questions regarding our project.
 
